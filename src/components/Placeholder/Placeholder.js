@@ -6,12 +6,10 @@ class Placeholder extends Component {
   render() {
     return (
       <div className="placeholder">
-        <header className="placeholder-header">
+        <div className="placeholder-header">
           <img src={logo} className="placeholder-logo" alt="logo" />
-          <p>
-            Loading the content in a short while...
-          </p>
-        </header>
+          <p>Loading the content in a short while...</p>
+        </div>
       </div>
     );
   }
