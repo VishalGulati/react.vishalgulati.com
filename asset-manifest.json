@@ -1,14 +1,14 @@
 {
-  "main.css": "/me/static/css/main.de14f172.chunk.css",
-  "main.js": "/me/static/js/main.4d493f91.chunk.js",
-  "main.js.map": "/me/static/js/main.4d493f91.chunk.js.map",
-  "runtime~main.js": "/me/static/js/runtime~main.7f73a39c.js",
-  "runtime~main.js.map": "/me/static/js/runtime~main.7f73a39c.js.map",
-  "static/js/2.4b8ce697.chunk.js": "/me/static/js/2.4b8ce697.chunk.js",
-  "static/js/2.4b8ce697.chunk.js.map": "/me/static/js/2.4b8ce697.chunk.js.map",
-  "index.html": "/me/index.html",
-  "precache-manifest.7524fbcf6524ecda78e7ee150668ef4e.js": "/me/precache-manifest.7524fbcf6524ecda78e7ee150668ef4e.js",
-  "service-worker.js": "/me/service-worker.js",
-  "static/css/main.de14f172.chunk.css.map": "/me/static/css/main.de14f172.chunk.css.map",
-  "static/media/logo.svg": "/me/static/media/logo.5d5d9eef.svg"
+  "main.css": "/react.vishalgulati.com/static/css/main.de14f172.chunk.css",
+  "main.js": "/react.vishalgulati.com/static/js/main.e2887889.chunk.js",
+  "main.js.map": "/react.vishalgulati.com/static/js/main.e2887889.chunk.js.map",
+  "runtime~main.js": "/react.vishalgulati.com/static/js/runtime~main.a3ac89a7.js",
+  "runtime~main.js.map": "/react.vishalgulati.com/static/js/runtime~main.a3ac89a7.js.map",
+  "static/js/2.4b8ce697.chunk.js": "/react.vishalgulati.com/static/js/2.4b8ce697.chunk.js",
+  "static/js/2.4b8ce697.chunk.js.map": "/react.vishalgulati.com/static/js/2.4b8ce697.chunk.js.map",
+  "index.html": "/react.vishalgulati.com/index.html",
+  "precache-manifest.e0469689c0f1433b142f5120fd568b54.js": "/react.vishalgulati.com/precache-manifest.e0469689c0f1433b142f5120fd568b54.js",
+  "service-worker.js": "/react.vishalgulati.com/service-worker.js",
+  "static/css/main.de14f172.chunk.css.map": "/react.vishalgulati.com/static/css/main.de14f172.chunk.css.map",
+  "static/media/logo.svg": "/react.vishalgulati.com/static/media/logo.5d5d9eef.svg"
 }
