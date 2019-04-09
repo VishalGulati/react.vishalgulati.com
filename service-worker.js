@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react.vishalgulati.com/precache-manifest.e0469689c0f1433b142f5120fd568b54.js"
+  "/react.vishalgulati.com/precache-manifest.feedf4f20524f2917273285e3b94c345.js"
 );
 
 workbox.clientsClaim();
