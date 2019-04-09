@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://vishalgulati.github.io/react.vishalgulati.com/",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
