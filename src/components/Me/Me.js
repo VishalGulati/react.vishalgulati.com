@@ -1,5 +1,8 @@
 import React from 'react';
 import './Me.css';
+import Accomplishments from '../Accomplishments/Accomplishments';
+import InProgress from '../InProgress/InProgress';
+import ToDo from '../ToDo/ToDo';
 
 /**
  * The application body
@@ -7,7 +10,9 @@ import './Me.css';
 const Me = () => {
   return (
     <div className="app-me container-fluid">
-      <div className="row">Hi, I am Vishal!</div>
+      <Accomplishments />
+      <InProgress />
+      <ToDo />
     </div>
   );
 };
